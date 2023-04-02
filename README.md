@@ -1,4 +1,5 @@
-** Landing page for Bose **
+** Landing page for Bose
+
 _Landing page layout with responsive design using:_
 
 * HTML
