@@ -3,7 +3,7 @@
 
 _Here implemented:_
 
-
+* A single landing page with responsive design.
 
 _Landing page layout with responsive design using:_
 
